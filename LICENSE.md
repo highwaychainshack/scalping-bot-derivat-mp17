@@ -1,4 +1,4 @@
-# 
+# elite scalping bot for derivatives Executor | stop-loss + price-monitoring is the best scalping bot for derivatives, featuring stop-loss and price-monitoring. Smart, fast, and
 
 
 
